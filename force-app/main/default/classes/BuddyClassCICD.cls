@@ -1,5 +1,5 @@
 public with sharing class BuddyClassCICD {
     public BuddyClassCICD() {
-        System.debug(LoggingLevel.DEBUG, 'Buddy cicd');
+        System.debug(LoggingLevel.DEBUG, 'Buddy cicd x');
     }
 }
